@@ -1,2 +1,3 @@
 SRC = \
-	articles/how-to-troubleshoot-an-epidural/article.md
+	articles/how-to-troubleshoot-an-epidural/article.md \
+	articles/anaesthesia/ent/paediatric-tonsillectomy/paediatric-tonsillectomy.md
